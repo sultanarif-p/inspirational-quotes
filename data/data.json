@@ -3,10 +3,19 @@
       "text":"The only people who never fail are those who never try.",
       "from":"Ilka Chase"
    },
+    {
+       "text" : 'Greatness is more than potential. It is the execution of that potential. Beyond the raw talent. You need the appropriate training. You need the discipline.You need the inspiration. You need the drive.',
+       "from" : 'Eric A. Burns'
+    },
+    {
+       "text" : 'What we think, or what we know, or what we believe is, in the end, of little consequence. The only consequence is what we do.',
+       "from": 'John Raskin'
+    },
    {  
       "text":"Failure is just another way to learn how to do something right.",
       "from":"Marian Wright Edelman"
    },
+
    {  
       "text":"I failed my way to success.",
       "from":"Thomas Edison"
